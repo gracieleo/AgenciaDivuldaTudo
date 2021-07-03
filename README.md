@@ -17,6 +17,7 @@ Realiza cadastro de anúncios e devolve relatório com as projeções de quantid
 
 ## Instruções 
 Para compilação: 
+Atraves do botão Code você pode fazer o dowload zip do arquivo ou através do link : https://github.com/gracieleo/AgenciaDivuldaTudo.git ou ainda fazer o fork do projeto em seu repositório.
 
 Utilização:
 O programa tem algumas variaveis com valores fixos, utilizados nos calculos de outras variaveis. Para cadastro de anuncios os campos são livres para digitação de valores tipo string e int. 
